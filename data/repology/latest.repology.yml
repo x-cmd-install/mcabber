@@ -1,50 +1,3 @@
-- repo: nix_stable_25_11
-  srcname: mcabber
-  visiblename: mcabber
-  version: 1.1.2
-  origversion: null
-  status: newest
-  summary: Small Jabber console client
-  maintainers:
-    - mail@pascal-wittmann.de
-  licenses:
-    - GPL-2.0
-- repo: slackware_current
-  subrepo: slackware
-  binname: mcabber
-  visiblename: mcabber
-  version: 1.1.2
-  origversion: null
-  status: newest
-  maintainers:
-    - volkerdi@slackware.com
-- repo: slackware64_15_0
-  subrepo: slackware64
-  binname: mcabber
-  visiblename: mcabber
-  version: 1.1.2
-  origversion: null
-  status: newest
-  maintainers:
-    - volkerdi@slackware.com
-- repo: slackware64_current
-  subrepo: slackware64
-  binname: mcabber
-  visiblename: mcabber
-  version: 1.1.2
-  origversion: null
-  status: newest
-  maintainers:
-    - volkerdi@slackware.com
-- repo: slackwarearm_15_0
-  subrepo: slackware
-  binname: mcabber
-  visiblename: mcabber
-  version: 1.1.2
-  origversion: null
-  status: newest
-  maintainers:
-    - volkerdi@slackware.com
 - repo: alpine_3_17
   subrepo: community
   srcname: mcabber
@@ -227,6 +180,17 @@
     - cielesti@protonmail.com
   licenses:
     - GPL-2.0-or-later
+- repo: epel_7
+  srcname: mcabber
+  visiblename: mcabber
+  version: 1.1.2
+  origversion: 1.1.2-1.el7
+  status: newest
+  summary: Console Jabber instant messaging client
+  licenses:
+    - GPLv2+
+  categories:
+    - Unspecified
 - repo: alpine_3_21
   subrepo: community
   srcname: mcabber
@@ -551,17 +515,6 @@
     - rhalina@old-forest.org
   categories:
     - net
-- repo: epel_7
-  srcname: mcabber
-  visiblename: mcabber
-  version: 1.1.2
-  origversion: 1.1.2-1.el7
-  status: newest
-  summary: Console Jabber instant messaging client
-  licenses:
-    - GPLv2+
-  categories:
-    - Unspecified
 - repo: fedora_39
   subrepo: release
   srcname: mcabber
@@ -729,23 +682,6 @@
   origversion: null
   status: rolling
   summary: Console Jabber client
-- repo: opensuse_tumbleweed
-  subrepo: src-oss
-  srcname: mcabber
-  binnames:
-    - mcabber
-    - mcabber-debuginfo
-    - mcabber-debugsource
-    - mcabber-devel
-  visiblename: mcabber
-  version: 1.1.2
-  origversion: 1.1.2-3.5
-  status: newest
-  summary: Modular XMPP client on ncurses
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Productivity/Networking/Instant Messenger
 - repo: macports
   srcname: net/mcabber
   binname: mcabber
@@ -760,22 +696,6 @@
     - GPL-2+
   categories:
     - net
-- repo: mageia_9
-  subrepo: core/release
-  srcname: mcabber
-  binnames:
-    - mcabber
-    - mcabber-debuginfo
-    - mcabber-debugsource
-  visiblename: mcabber
-  version: 1.1.2
-  origversion: 1.1.2-3.mga9
-  status: newest
-  summary: Console jabber client
-  licenses:
-    - GPLv2+
-  categories:
-    - Networking/Instant messaging
 - repo: mageia_10
   subrepo: core/release
   srcname: mcabber
@@ -870,6 +790,17 @@
     - mail@pascal-wittmann.de
   licenses:
     - GPL-2.0
+- repo: nix_stable_25_11
+  srcname: mcabber
+  visiblename: mcabber
+  version: 1.1.2
+  origversion: null
+  status: newest
+  summary: Small Jabber console client
+  maintainers:
+    - mail@pascal-wittmann.de
+  licenses:
+    - GPL-2.0
 - repo: nix_stable_26_05
   srcname: mcabber
   visiblename: mcabber
@@ -926,6 +857,23 @@
   summary: Modular XMPP client on ncurses
   licenses:
     - GPL-2.0+
+  categories:
+    - Productivity/Networking/Instant Messenger
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: mcabber
+  binnames:
+    - mcabber
+    - mcabber-debuginfo
+    - mcabber-debugsource
+    - mcabber-devel
+  visiblename: mcabber
+  version: 1.1.2
+  origversion: 1.1.2-3.5
+  status: newest
+  summary: Modular XMPP client on ncurses
+  licenses:
+    - GPL-2.0-or-later
   categories:
     - Productivity/Networking/Instant Messenger
 - repo: opensuse_network_tumbleweed
@@ -1198,6 +1146,42 @@
   status: newest
   maintainers:
     - volkerdi@slackware.com
+- repo: slackware_current
+  subrepo: slackware
+  binname: mcabber
+  visiblename: mcabber
+  version: 1.1.2
+  origversion: null
+  status: newest
+  maintainers:
+    - volkerdi@slackware.com
+- repo: slackware64_15_0
+  subrepo: slackware64
+  binname: mcabber
+  visiblename: mcabber
+  version: 1.1.2
+  origversion: null
+  status: newest
+  maintainers:
+    - volkerdi@slackware.com
+- repo: slackware64_current
+  subrepo: slackware64
+  binname: mcabber
+  visiblename: mcabber
+  version: 1.1.2
+  origversion: null
+  status: newest
+  maintainers:
+    - volkerdi@slackware.com
+- repo: slackwarearm_15_0
+  subrepo: slackware
+  binname: mcabber
+  visiblename: mcabber
+  version: 1.1.2
+  origversion: null
+  status: newest
+  maintainers:
+    - volkerdi@slackware.com
 - repo: starkos
   subrepo: main
   srcname: mcabber
@@ -1235,19 +1219,6 @@
   categories:
     - universe/net
 - repo: ubuntu_16_04
-  subrepo: xenial-updates/universe
-  srcname: mcabber
-  binnames:
-    - mcabber
-  visiblename: mcabber
-  version: 0.10.2
-  origversion: 0.10.2-1+deb8u1build0.16.04.1
-  status: outdated
-  maintainers:
-    - rhalina@old-forest.org
-  categories:
-    - universe/net
-- repo: ubuntu_16_04
   subrepo: xenial/universe
   srcname: mcabber
   binnames:
@@ -1255,6 +1226,19 @@
   visiblename: mcabber
   version: 0.10.2
   origversion: 0.10.2-1build1
+  status: outdated
+  maintainers:
+    - rhalina@old-forest.org
+  categories:
+    - universe/net
+- repo: ubuntu_16_04
+  subrepo: xenial-updates/universe
+  srcname: mcabber
+  binnames:
+    - mcabber
+  visiblename: mcabber
+  version: 0.10.2
+  origversion: 0.10.2-1+deb8u1build0.16.04.1
   status: outdated
   maintainers:
     - rhalina@old-forest.org
