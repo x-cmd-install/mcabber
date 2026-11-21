@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 651528,
       "digest": null,
-      "download_count": 101,
+      "download_count": 102,
       "created_at": "2020-09-19T15:10:16Z",
       "updated_at": "2020-09-19T15:10:21Z",
       "browser_download_url": "https://github.com/McKael/mcabber/releases/download/1.1.2/mcabber-1.1.2.tar.bz2"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 195,
       "digest": null,
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2020-09-19T15:10:21Z",
       "updated_at": "2020-09-19T15:10:21Z",
       "browser_download_url": "https://github.com/McKael/mcabber/releases/download/1.1.2/mcabber-1.1.2.tar.bz2.asc"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 56,
       "digest": null,
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2020-09-19T15:10:21Z",
       "updated_at": "2020-09-19T15:10:22Z",
       "browser_download_url": "https://github.com/McKael/mcabber/releases/download/1.1.2/mcabber-1.1.2.tar.bz2.md5"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 88,
       "digest": null,
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2020-09-19T15:10:22Z",
       "updated_at": "2020-09-19T15:10:22Z",
       "browser_download_url": "https://github.com/McKael/mcabber/releases/download/1.1.2/mcabber-1.1.2.tar.bz2.sha256"
