@@ -33,7 +33,7 @@ Total: **24,760** lines of code across **71** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.1.2` (2020-09-19)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-24
 - **Assets in release**: 4
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **24,760** lines of code across **71** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 2 · **Merged PRs**: 0 · **Open PRs**: 1 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 2383
+- **Releases**: 2 · **Merged PRs**: 0 · **Open PRs**: 1 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 2384
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 14 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 14 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 14 |
-| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 14 |
-| 360d | 2025-11-29 | 0 | 0 | 0 | 0 | 0 | 14 |
-| last720d | 2024-12-04 | 0 | 0 | 1 | 0 | 0 | 14 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 15 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 15 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 15 |
+| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 15 |
+| 360d | 2025-11-30 | 0 | 0 | 0 | 0 | 0 | 15 |
+| last720d | 2024-12-05 | 0 | 0 | 1 | 0 | 0 | 15 |
 
 ## Release assets
 
@@ -64,24 +64,6 @@ Total: **24,760** lines of code across **71** files in the top 5 languages.
 | [mcabber-1.1.2.tar.bz2.md5](https://github.com/McKael/mcabber/releases/download/1.1.2/mcabber-1.1.2.tar.bz2.md5) | 56 B | `other` |
 | [mcabber-1.1.2.tar.bz2.sha256](https://github.com/McKael/mcabber/releases/download/1.1.2/mcabber-1.1.2.tar.bz2.sha256) | 88 B | `other` |
 
-## Distribution status
-
-Reported by **109** distros on [repology.org](https://repology.org/project/mcabber). **88** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.1.2` | ✅ latest |
-| Debian 13 | `1.1.2` | ✅ latest |
-| Ubuntu 26.04 LTS | `1.1.2` | ✅ latest |
-| Ubuntu 24.04 LTS | `1.1.2` | ✅ latest |
-| Arch | `1.1.2` | ✅ latest |
-| Homebrew | `1.1.2` | ✅ latest |
-| Fedora rawhide | `1.1.3` | ignored |
-| Nix unstable | `1.1.2` | ✅ latest |
-| Void | `1.1.2` | ✅ latest |
-| Alpine edge | `1.1.2` | ✅ latest |
-| openSUSE Tumbleweed | `1.1.2` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for mcabber lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mcabber` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +73,4 @@ Install metadata for mcabber lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:51:53Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:38:38Z._
